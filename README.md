@@ -1,5 +1,5 @@
 # FIBONACCI SEQUENCE CHALLENGE RULES (WIP)
-
+bold words are defined at the end of the documents in the *Contextual definitions* section
 # Goal:
 **Calculating** and **Printing** the fibonacci sequence 
 # Rules:
